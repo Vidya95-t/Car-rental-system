@@ -1,0 +1,25 @@
+       
+
+body{
+             background: url("road.jpeg")
+                                   no-repeat
+                                  center
+                                   scroll;}
+h1{
+position: relative; 
+  top: -200px;
+text-align:center;
+ color:#edf799;
+ font-size:50;}
+h2{
+position: relative; 
+  top: -200px;
+text-align:center;
+color:#FFFDD0;
+ font-size:30;}
+h4{
+position: relative; 
+  top: -125px;
+  text-align:center;
+ color:white;
+ font-size:60;}
